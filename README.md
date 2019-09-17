@@ -1,6 +1,7 @@
-# platzi-music-pro
+# todo-basic-vuejs
 
-> continuacion del curso de Vue pero ahora es más completo
+> is a tasks list made in Vuejs, Bulma y Pug
+> es una lista de tareas echa en Vuejs, Bulma y Pug 
 
 ## Build Setup
 
@@ -16,3 +17,4 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# todo-vuejs
